@@ -10,7 +10,7 @@ Prepare
 Objective
 ---------
 
-I want you, my friends, to give great presentation and talks!
+I want you, my friends, to give great presentations!
 
 Who's Listening
 ---------------
@@ -31,6 +31,9 @@ The Right Approach
   1. prepare
   2. present
   3. props
+
+Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.
+Sun Tzu, The Art of War
 
 The Hook
 --------
@@ -84,21 +87,22 @@ Props
 Quotes
 ======
 
+Every speaker has a mouth;
+An arrangement rather neat.
+Sometimes it's filled with wisdom.
+Sometimes it's filled with feet.
+- Robert Orben
+
 Be interesting, be enthusiastic... and don't talk to much.
 Norman Vincent Peale
 
 Better never begin than never make an end.
 George Herbert
 
+
 Condense some daily experience into a glowing symbol and an audience is electrified.
 Ralph Waldo Emerson
 
-
-Every speaker has a mouth;
-An arrangement rather neat.
-Sometimes it's filled with wisdom.
-Sometimes it's filled with feet.
-- Robert Orben
 
 
 Find out what's keeping them up nights and offer hope. Your theme must be an answer to their fears.
